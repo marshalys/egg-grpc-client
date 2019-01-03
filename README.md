@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-grpc-client --save
+$ npm i egg-grpc-client-plugin --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg-grpc-client --save
 // {app_root}/config/plugin.js
 exports.grpcClient = {
   enable: true,
-  package: 'egg-grpc-client',
+  package: 'egg-grpc-client-plugin',
 };
 ```
 
@@ -56,7 +56,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/marshalys/egg/issues).
 
 ## License
 
