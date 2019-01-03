@@ -1,6 +1,6 @@
 {
   "name": "egg-grpc-client-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "grpc client plugin for eggjs",
   "eggPlugin": {
     "name": "grpcClient"
@@ -40,7 +40,8 @@
   "files": [
     "app.js",
     "agent.js",
-    "config"
+    "config",
+    "index.d.ts"
   ],
   "ci": {
     "version": "8, 9"
