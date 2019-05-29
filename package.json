@@ -12,7 +12,7 @@
     "grpc"
   ],
   "dependencies": {
-    "grpc-helper": "^0.4.1"
+    "grpc-helper": "^0.5.0"
   },
   "devDependencies": {
     "autod": "^3.0.0",
