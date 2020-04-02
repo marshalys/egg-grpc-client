@@ -1,6 +1,6 @@
 {
   "name": "egg-grpc-client-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "grpc client plugin for eggjs",
   "eggPlugin": {
     "name": "grpcClient"
